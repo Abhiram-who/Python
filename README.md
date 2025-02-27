@@ -5,7 +5,7 @@ To understand the key skills required for data roles we undergo filtered out res
 Steps: [2_Skill_Demand.ipynb](project_python\2_Skill_Demand.ipynb)
 
 ### Results: 
-![Visualization of Top Skills](project_python\images\2_output.png)
+![Visualization of Top Skills](project_python/images/2_output.png)
 
 ### Insights:
 Python and SQL seem to be the most basic skill requirement in the field of Data Science, most prominently for Data Scientists, Data Engineers and Data Analysts. Other relevant skills are to be specialised on the basis of requirement.
