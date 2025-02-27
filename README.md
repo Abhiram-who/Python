@@ -16,7 +16,7 @@ We present this data through a line chart, which inturn are quite convenient.
 
 Steps: [3_Skill_Trends.ipynb](project_python\3_Skill_Trends.ipynb)
 ### Results:
-![Trending Skills](project_python\images\3_output.png)
+![Trending Skills](project_python/images/3_output.png)
 
 ### Insights:
 Python maintains its consistency as an absolute requirement for a Data Scientists, also playing the role of a starting point for aspirants.
