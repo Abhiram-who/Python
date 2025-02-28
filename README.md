@@ -23,7 +23,7 @@ Python maintains its consistency as an absolute requirement for a Data Scientist
 # 
 ## 3.Financial Aspect for Top Data Roles and corresponding Top Skills
 
-Steps: [4_Salary_Analysis.ipynb](project_python\4_Salary_Analysis.ipynb)
+Steps: [4_Salary_Analysis.ipynb](project_python/4_Salary_Analysis.ipynb)
 
 ### Results:
 ![Salary Distribution](project_python/images/4_output.png)
