@@ -2,7 +2,7 @@
 ## 1. What are the most demanded skills for data roles ? 
 To understand the key skills required for data roles we undergo filtered out results  that showcase top 5 skills for each of the top 3 analytical roles.
 
-Steps: [2_Skill_Demand.ipynb](project_python\2_Skill_Demand.ipynb)
+Steps: [2_Skill_Demand.ipynb](project_python/2_Skill_Demand.ipynb)
 
 ### Results: 
 ![Visualization of Top Skills](project_python/images/2_output.png)
