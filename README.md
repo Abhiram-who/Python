@@ -31,6 +31,15 @@ Steps: [4_Salary_Analysis.ipynb](project_python\4_Salary_Analysis.ipynb)
 ![Top Skills](project_python/images/4_2_output.png)
 
 ### Insights:
-Data Scientists can be considered to be the job role that is most stable compared to others, with respect to the skills one brings to the table(azure,pytorch or even shell,express
- ).
+Data Scientists can be considered to be the job role that is most stable compared to others, with respect to the skills one brings to the table(azure, pytorch or even shell, express).
+#
+## 4.Optimal Skills for a Data scientist
+
+Steps: [5_Optimal_Skills.ipynb](project_python\5_Optimal_Skills.ipynb)
+
+### Results:
+![Skill Distribution](project_python/images/5_output.png)
+
+### Insights:
+Similar to the previous case, Python seems to be the defacto skill to have. This is followed by the demand for SQL for handling data and other specialisation skills like Pytorch, and Pandas as a library.
 
