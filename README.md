@@ -35,7 +35,7 @@ Data Scientists can be considered to be the job role that is most stable compare
 #
 ## 4.Optimal Skills for a Data scientist
 
-Steps: [5_Optimal_Skills.ipynb](project_python\5_Optimal_Skills.ipynb)
+Steps: [5_Optimal_Skills.ipynb](project_python/5_Optimal_Skills.ipynb)
 
 ### Results:
 ![Skill Distribution](project_python/images/5_output.png)
