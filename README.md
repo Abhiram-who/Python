@@ -14,7 +14,7 @@ Python and SQL seem to be the most basic skill requirement in the field of Data 
 
 We present this data through a line chart, which inturn are quite convenient.
 
-Steps: [3_Skill_Trends.ipynb](project_python\3_Skill_Trends.ipynb)
+Steps: [3_Skill_Trends.ipynb](project_python/3_Skill_Trends.ipynb)
 ### Results:
 ![Trending Skills](project_python/images/3_output.png)
 
